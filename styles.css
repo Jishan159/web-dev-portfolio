@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.common-btn{
+    background-color: orange;
+    padding: 15px 8px;
+    border-radius: 12px;
+    font-weight:bold;
+    font-size: 22px;
+    color: white;
+    border: none;
+}
+nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+     display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 20px;
+}
